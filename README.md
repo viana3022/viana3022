@@ -1,6 +1,6 @@
 
 # Hi👋,I'm Vinícius Viana Henriques
-## Full Stack developer 👨‍💻
+## Developer 👨‍💻
 
 
 - 🌱 I’m currently learning Full Stack development at SENAI
