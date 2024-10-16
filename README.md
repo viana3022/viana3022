@@ -1,9 +1,9 @@
 
 # Hi👋,I'm Vinícius Viana Henriques
-## Developer 👨‍💻
+## Full Stack Developer 👨‍💻
 
 
-- 🌱 I’m currently learning Full Stack development at SENAI
+- 🌱 I’m currently Working as a Front-end Developer
 - ✅ I'm from Brazil
 
 <div align="center">
